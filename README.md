@@ -1,3 +1,3 @@
-# Grunt Coffee Precolator Example
+# Grunt Coffee Percolator Example
 
 Example app for Grunt Percolator task
